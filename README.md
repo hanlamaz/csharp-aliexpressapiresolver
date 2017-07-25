@@ -1,2 +1,2 @@
-# csharp-aliexpressapiresolver
+# AliexpressAPIresolver
 Aliexpress API Resolver for C#
